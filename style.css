@@ -1,0 +1,40 @@
+header, footer{
+	background-color: #f0f8ff;
+	padding:20px;
+}
+
+header{
+	text-align:right;
+}
+
+footer{
+	text-align:left;
+}
+header button, footer button{
+	background-color: #6495ed;
+	color:#fff;
+	padding:10px;
+}
+
+
+.main{
+	margin:20px;
+	padding:20px;
+	border: solid 1px;
+	border-color: #6495ed;
+}
+
+p{
+	background-color: #f5f5dc;
+}
+
+.subscribe{
+	background-color: #fff;
+	color:#4f00ff;
+}
+
+.read_more{
+	background-color: #a52a2a;
+	color:#fff;
+	padding:5px;
+}
